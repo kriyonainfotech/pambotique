@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4bc1347.css",
+    "main.js": "/static/js/main.a42a3a4a.js",
+    "static/js/488.9c92ff38.chunk.js": "/static/js/488.9c92ff38.chunk.js",
+    "static/media/couple.png": "/static/media/couple.cf59e7b93fdfa83ec526.png",
+    "static/media/lady.png": "/static/media/lady.69c474a725cb7e622f17.png",
+    "static/media/Home1.jpeg": "/static/media/Home1.fdf0bafd6059c218b4e5.jpeg",
+    "static/media/shop.png": "/static/media/shop.56573f613c86ff1f3c19.png",
+    "static/media/Salwar Kameez.png": "/static/media/Salwar Kameez.2a0f75a3c463abee26ff.png",
+    "static/media/Saree.png": "/static/media/Saree.ec52aa9dad6fa7e6c2bc.png",
+    "static/media/Lehenga Choli.png": "/static/media/Lehenga Choli.b1f8953b4618eb10960f.png",
+    "static/media/Gown.png": "/static/media/Gown.6c99312015940d4e2c9e.png",
+    "static/media/logof.png": "/static/media/logof.e41e367d87ced62d1c64.png",
+    "index.html": "/index.html",
+    "main.e4bc1347.css.map": "/static/css/main.e4bc1347.css.map",
+    "main.a42a3a4a.js.map": "/static/js/main.a42a3a4a.js.map",
+    "488.9c92ff38.chunk.js.map": "/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bc1347.css",
+    "static/js/main.a42a3a4a.js"
+  ]
+}
